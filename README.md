@@ -18,3 +18,17 @@ Version
 12. A Basic Project Setup using Bootstrap for
 Styling
 13. About the Course Code / Code Snapshots
+
+### Section 2: The Basics
+14. Module Introduction
+15. How an Angular App gets Loaded and
+Started
+16. Components are Important!
+17. Creating a New Component
+18. Understanding the Role of AppModule
+and Component Declaration
+19. Using Custom Components
+
+### Section 32: Bonus: TypeScript Introduction (for Angular 2 Usage)
+448. Module Introduction
+449. What & Why?
