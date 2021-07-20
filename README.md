@@ -1,6 +1,13 @@
 # Angular-Diary-The-Complete-Guide-2021-Edition-
 # Maximilian Schwartzmuller course
 
+### 20th of July
+
+20. Creating Components with the CLI & Nesting Components
+21. Working with Component Templates
+22. Working with Component Styles
+23. Fully Understanding the Component Selector
+
 ### 19th of July
 ### Section 1: Getting Started
 1. Course Introduction
