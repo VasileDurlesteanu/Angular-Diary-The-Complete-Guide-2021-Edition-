@@ -12,6 +12,7 @@
 455. Assigning Type Aliases
 456. Diving into Functions & Function Types
 457. Understanding Generics
+458. Classes & Typescript
 
 
 ### 20th of July
