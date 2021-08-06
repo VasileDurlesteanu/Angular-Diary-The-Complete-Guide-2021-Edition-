@@ -1,6 +1,19 @@
 # Angular-Diary-The-Complete-Guide-2021-Edition-
 # Maximilian Schwartzmuller course
 
+### 6th of August
+### Section 32: Bonus: TypeScript Introduction (for Angular 2 Usage)
+
+450. Installing & Using TypeScript
+451. Base Types & Primitives
+452. Array & Object Types
+453. Type Inference
+454. Working with Union Types
+455. Assigning Type Aliases
+456. Diving into Functions & Function Types
+457. Understanding Generics
+
+
 ### 20th of July
 
 20. Creating Components with the CLI & Nesting Components
