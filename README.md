@@ -1,6 +1,23 @@
 # Angular-Diary-The-Complete-Guide-2021-Edition-
 # Maximilian Schwartzmuller course
 
+### 9th of August
+### Section 2: The Basics
+20. Creating Components with the CLI & Nesting Components
+21. Working with Component Templates
+22. Working with Component Styles
+23. Fully Understanding the Component Selector
+25. What is Databinding?
+26. String Interpolation
+27. Property Binding
+28. Property Binding vs String Interpolation
+
+### 9th of August
+### Section 32: Bonus: TypeScript Introduction (for Angular 2 Usage)
+459. Working with Interfaces
+460. Config. TS compiler
+461. Resources
+
 ### 6th of August
 ### Section 32: Bonus: TypeScript Introduction (for Angular 2 Usage)
 
