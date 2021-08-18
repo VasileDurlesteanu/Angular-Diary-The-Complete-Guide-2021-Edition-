@@ -1,6 +1,13 @@
 # Angular-Diary-The-Complete-Guide-2021-Edition-
 # Maximilian Schwartzmuller course
 
+
+### 18th of August
+285. Module Introduction
+286. How Authentication Works
+287. Adding the Auth Page
+288. Switching Between Auth Modes
+
 ### 9th of August
 ### Section 2: The Basics
 20. Creating Components with the CLI & Nesting Components
