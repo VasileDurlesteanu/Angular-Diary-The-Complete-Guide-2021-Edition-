@@ -3,7 +3,7 @@
 
 
 ### 18th of August
-### Section...
+### Section..
 285. Module Introduction
 286. How Authentication Works
 287. Adding the Auth Page
