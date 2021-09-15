@@ -1,6 +1,19 @@
 # Angular-Diary-The-Complete-Guide-2021-Edition-
 # Maximilian Schwartzmuller course
 
+### 15th of September
+##Section 15: Handling Forms in Angular Apps
+
+181. Module Introduction
+182. Why do we Need Angular's Help?
+183. Template-Driven (TD) vs Reactive Approach
+184. An Example Form
+185. TD: Creating the Form and Registering the Controls
+186. TD: Submitting and Using the Form
+187. TD: Understanding Form State
+188. TD: Accessing the Form with @ViewChild
+189. TD: Adding Validation to check User Input
+190. Built-in Validators & Using HTML5 Validation
 
 ### 18th of August
 ### Section..
