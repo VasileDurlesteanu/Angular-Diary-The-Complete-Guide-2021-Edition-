@@ -1,8 +1,20 @@
 # Angular-Diary-The-Complete-Guide-2021-Edition-
 # Maximilian Schwartzmuller course
 
+
+### 16th of September
+## Section 15: Handling Forms in Angular Apps
+191. TD: Using the Form State
+192. TD: Outputting Validation Error Messages
+193. TD: Set Default Values with ngModel Property Binding
+194. TD: Using ngModel with Two-Way-Binding
+195. TD: Grouping Form Controls
+196. TD: Handling Radio Buttons
+197. TD: Setting and Patching Form Values
+
+
 ### 15th of September
-##Section 15: Handling Forms in Angular Apps
+## Section 15: Handling Forms in Angular Apps
 
 181. Module Introduction
 182. Why do we Need Angular's Help?
