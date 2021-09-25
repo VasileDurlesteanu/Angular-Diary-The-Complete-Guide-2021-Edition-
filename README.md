@@ -1,6 +1,7 @@
 # Angular-Diary-The-Complete-Guide-2021-Edition-
 # Maximilian Schwartzmuller course
 
+25 september did the assignment
 
 ### 16th of September
 ## Section 15: Handling Forms in Angular Apps.
