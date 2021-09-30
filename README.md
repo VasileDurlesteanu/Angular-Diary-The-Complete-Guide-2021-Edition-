@@ -4,7 +4,7 @@
 25 september did the assignment and recaped the section
 
 ### 16th of September
-## Section 15: Handling Forms in Angular Apps.
+## Section 15: Handling Forms in Angular Apps
 191. TD: Using the Form State
 192. TD: Outputting Validation Error Messages
 193. TD: Set Default Values with ngModel Property Binding
